@@ -1,0 +1,5 @@
+(load "quicklisp.lisp")
+(quicklisp-quickstart:install)
+(ql:quickload "quicklisp-slime-helper")
+(ql:quickload "clhs")
+(exit)

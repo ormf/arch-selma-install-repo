@@ -1,0 +1,36 @@
+[submodule "arch-selma-install/cl-pkgs/cm-incudine"]
+	path = arch-selma-install/cl-pkgs/cm-incudine
+	url = https://github.com/ormf/cm-incudine
+[submodule "arch-selma-install/cl-pkgs/cm"]
+	path = arch-selma-install/cl-pkgs/cm
+	url = https://github.com/ormf/cm
+[submodule "arch-selma-install/cl-pkgs/incudine"]
+	path = arch-selma-install/cl-pkgs/incudine
+	url = https://github.com/titola/incudine
+[submodule "arch-selma-install/cl-pkgs/cm-utils"]
+	path = arch-selma-install/cl-pkgs/cm-utils
+	url = https://github.com/ormf/cm-utils
+[submodule "arch-selma-install/cl-pkgs/cl-coroutine"]
+	path = arch-selma-install/cl-pkgs/cl-coroutine
+	url = https://github.com/takagi/cl-coroutine
+[submodule "arch-selma-install/cl-pkgs/fomus"]
+	path = arch-selma-install/cl-pkgs/fomus
+	url = https://github.com/ormf/fomus
+[submodule "arch-selma-install/cl-pkgs/cl-collider"]
+	path = arch-selma-install/cl-pkgs/cl-collider
+	url = https://github.com/ormf/cl-collider
+[submodule "arch-selma-install/cl-pkgs/simple-utils"]
+	path = arch-selma-install/cl-pkgs/simple-utils
+	url = https://github.com/byulparan/simple-utils
+[submodule "arch-selma-install/cl-pkgs/scheduler"]
+	path = arch-selma-install/cl-pkgs/scheduler
+	url = https://github.com/byulparan/scheduler
+[submodule "arch-selma-install/cl-pkgs/sc-osc"]
+	path = arch-selma-install/cl-pkgs/sc-osc
+	url = https://git@github.com/zzkt/osc.git
+[submodule "arch-selma-install/cl-pkgs/fudi"]
+	path = arch-selma-install/cl-pkgs/fudi
+	url = https://github.com/ormf/fudi-incudine
+[submodule "arch-selma-install/cl-pkgs/orm-utils"]
+	path = arch-selma-install/cl-pkgs/orm-utils
+	url = https://github.com/ormf/orm-utils

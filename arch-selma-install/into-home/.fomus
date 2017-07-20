@@ -1,0 +1,13 @@
+:output '((:data) (:lilypond :process t :view nil))
+
+:lilypond-exe "/home/orm/bin/lilypond"
+:lilypond-opts '("--pdf")
+:lilypond-out-ext "pdf"
+
+:lilypond-view-exe "/usr/bin/evince"
+:cmn-view-exe "/usr/bin/evince"
+
+:verbose 1
+:min-tuplet-dur 1
+:max-tuplet '(13)
+:caut-acc-ottavas t
